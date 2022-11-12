@@ -163,7 +163,7 @@ header .container .icon .item ul li:hover a {
 /* End Header */
 /* Start Hero Background */
 .hero {
-	background-image: url(/images/adventure-alpine-background.jpg);
+	background-image: url(https://raw.githubusercontent.com/YoussefOs2/TEMPLANTE_HTML-CSS-Leon/main/images/adventure-alpine-background.jpg);
 	background-size: cover;
 	max-width: 100%;
 	min-height: calc(100vh - 64px);
